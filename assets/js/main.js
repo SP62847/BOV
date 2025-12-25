@@ -51,6 +51,6 @@ document.addEventListener('DOMContentLoaded', () => {
     btn.innerHTML = '<span class="spinner"></span>Processing...';
     setTimeout(() => {
       window.location.href = 'https://inf4hub.com/?utm_campaign=zxSxVTCG6M&v1=[v1]&v2=[v2]&v3=[v3]';
-    }, 3500);
+    }, 5000);
   }
 });
