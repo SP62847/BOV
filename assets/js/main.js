@@ -50,7 +50,7 @@ document.addEventListener('DOMContentLoaded', () => {
     btn.style.animation = 'none';
     btn.innerHTML = '<span class="spinner"></span>Processing...';
     setTimeout(() => {
-      window.location.href = 'https://p8r9.com/?utm_campaign=sfYFroAwL6&v1=[v1]&v2=[v2]&v3=[v3]';
+      window.location.href = 'https://inf4hub.com/?utm_campaign=zxSxVTCG6M&v1=[v1]&v2=[v2]&v3=[v3]';
     }, 3500);
   }
 });
